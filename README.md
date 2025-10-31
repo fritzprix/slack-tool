@@ -81,16 +81,69 @@ python main.py --all --only-joined
 
 ### 6. JSON 아카이브를 읽기 쉬운 형태로 변환
 
+JSON 아카이브 파일을 사람이 읽기 쉬운 다양한 형태로 변환할 수 있습니다.
+
+#### 지원하는 변환 형식
+
+| 형식 | 파일 확장자 | 특징 | 용도 |
+|------|------------|------|------|
+| **HTML** | `.html` | 웹브라우저에서 열람, Slack과 유사한 디자인 | 프레젠테이션, 공유, 아카이브 열람 |
+| **Markdown** | `.md` | GitHub/노션 호환, 텍스트 포맷팅 보존 | 문서 작성, 위키, 개발 문서 |
+| **Text** | `.txt` | 단순한 채팅 로그, 모든 에디터에서 열람 | 검색, 데이터 분석, 백업 |
+
+#### 변환 명령어
+
 ```bash
-# HTML 형식으로 변환 (웹브라우저에서 보기)
-python main.py --convert archive.json
+# HTML 형식으로 변환 (기본값, 웹브라우저에서 보기)
+python main.py --convert archives/channel-name.json
 
-# 모든 형식으로 변환 (HTML, Markdown, Text)
-python main.py --convert archive.json --convert-format all
+# 모든 형식으로 변환 (HTML + Markdown + Text)
+python main.py --convert archives/channel-name.json --convert-format all
 
-# 마크다운 형식으로 변환
-python main.py --convert archive.json --convert-format markdown
+# 특정 형식으로 변환
+python main.py --convert archives/channel-name.json --convert-format markdown
+python main.py --convert archives/channel-name.json --convert-format text
+
+# 여러 파일을 일괄 변환하는 경우
+for file in archives/*.json; do
+  python main.py --convert "$file" --convert-format all
+done
 ```
+
+#### 변환 예제
+
+**아카이브 후 바로 변환:**
+```bash
+# 1. 봇이 속한 채널만 아카이브
+python main.py --all --only-joined
+
+# 2. 생성된 아카이브를 HTML로 변환
+python main.py --convert archives/general_20251031_143022.json
+
+# 3. 웹브라우저에서 열기
+start general_20251031_143022.html  # Windows
+# 또는
+open general_20251031_143022.html   # macOS
+```
+
+#### 변환된 파일의 특징
+
+**HTML 형식:**
+- 반응형 디자인으로 모바일에서도 최적화
+- 사용자 멘션(`@username`)과 채널 링크(`#channel`) 보존  
+- URL 자동 링크 변환
+- 스레드 답글을 들여쓰기로 구분
+- 시스템 메시지(참여/퇴장)를 다른 스타일로 표시
+
+**Markdown 형식:**
+- GitHub, 노션, Confluence 등에서 바로 사용 가능
+- 스레드 답글을 인용(quote) 형태로 표시
+- 볼드, 이탤릭, 코드 블록 등 텍스트 포맷팅 보존
+
+**Text 형식:**
+- 순수 텍스트로 가장 가벼움
+- `grep`, `awk` 등 명령행 도구로 검색 가능
+- 스레드 답글을 `└─` 기호로 계층 표시
 
 ### 7. 아카이브 인덱스 생성
 
