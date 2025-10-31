@@ -69,7 +69,30 @@ python main.py --channels C123456789 C987654321 general
 python main.py --list
 ```
 
-### 5. 아카이브 인덱스 생성
+### 5. 봇이 속한 채널만 처리
+
+```bash
+# 봇이 속한 채널 목록 확인
+python main.py --list --only-joined
+
+# 봇이 속한 채널만 아카이브
+python main.py --all --only-joined
+```
+
+### 6. JSON 아카이브를 읽기 쉬운 형태로 변환
+
+```bash
+# HTML 형식으로 변환 (웹브라우저에서 보기)
+python main.py --convert archive.json
+
+# 모든 형식으로 변환 (HTML, Markdown, Text)
+python main.py --convert archive.json --convert-format all
+
+# 마크다운 형식으로 변환
+python main.py --convert archive.json --convert-format markdown
+```
+
+### 7. 아카이브 인덱스 생성
 
 ```bash
 python main.py --all --index
@@ -87,6 +110,9 @@ python main.py --all --index
 | `--channel CH` | 특정 채널 아카이브 |
 | `--channels CH1 CH2 ...` | 여러 채널 아카이브 |
 | `--list` | 채널 목록 출력 |
+| `--convert FILE` | JSON 아카이브를 읽기 쉬운 형태로 변환 |
+| `--convert-format FORMAT` | 변환 형식 (html, markdown, text, all) |
+| `--only-joined` | 봇이 속한 채널만 포함 |
 | `--no-threads` | 스레드 메시지 제외 |
 | `--include-archived` | 아카이브된 채널도 포함 |
 | `--index` | 인덱스 파일 생성 |

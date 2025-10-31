@@ -1,0 +1,768 @@
+# #ext-skt-anthropic-coxwave
+
+**아카이브 정보:**
+- 생성일: 2025-10-31T11:00:25.943685
+- 채널 ID: C09DPU161AN
+- 메시지 수: 86개
+- 프라이빗 채널: 예
+
+---
+
+*2025-09-05T16:54:42.435029* - _@U064D01NAEL 님이 채널에 참여함_
+
+---
+
+*2025-09-05T16:57:01.677889* - _@U06CCE7LK7G 님이 채널에 참여함_
+
+---
+
+*2025-09-05T16:57:01.830779* - _@U063PT3DHS7 님이 채널에 참여함_
+
+---
+
+*2025-09-05T16:57:01.949939* - _@U063PT0T9FD 님이 채널에 참여함_
+
+---
+
+*2025-09-05T16:57:02.094039* - _@U07R9BP27E3 님이 채널에 참여함_
+
+---
+
+**Slackbot** _2025-09-05T16:58:42.541119_
+
+*seungmin8* 님이 이 채널에 *Coxwave*의 *yeop.lee* 님을 추가했습니다. 채널 세부정보에서 권한을 검토할 수 있습니다. 즐겁게 협업하세요!
+
+---
+
+*2025-09-05T16:58:43.138779* - _@U07B0MYQEHG has joined the channel_
+
+---
+
+*2025-09-05T16:58:44.515969* - _@U07BQ3C308Z has joined the channel_
+
+---
+
+**Slackbot** _2025-09-05T22:57:48.600759_
+
+*seungmin8* 님이 이 채널에 *A*의 *julian* 님을 추가했습니다. 채널 세부정보에서 권한을 검토할 수 있습니다. 즐겁게 협업하세요!
+
+---
+
+*2025-09-05T22:57:48.726759* - _@U0615S50TS9 has joined the channel_
+
+---
+
+**Seungmin(김승민)/AI Platform사업전략/SKT** _2025-09-08T10:44:33.503139_
+
+Hi @U0615S50TS9, I've set up a three-way channel between SKT, Anthropic, and coxwave. Could you invite other relevant people from your Anthropic team to join?
+
+---
+
+*2025-09-08T11:40:46.404489* - _@U08UF3GD5R7 has joined the channel_
+
+---
+
+*2025-09-08T11:40:46.529699* - _@U071L2KP001 has joined the channel_
+
+---
+
+*2025-09-08T11:40:46.710309* - _@U08TPD33VMM has joined the channel_
+
+---
+
+*2025-09-08T11:40:46.839089* - _@U090MG7A27M has joined the channel_
+
+---
+
+**U07BQ3C308Z** _2025-09-08T13:51:27.221639_
+
+Hi everyone! I'm Gijung, Co-founder of Coxwave. Great to see this collaboration channel set up between SKT, Anthropic, and Coxwave.
+
+Looking forward to working together again with the Anthropic team and excited about what we can do with SKT team as well. Thanks for setting this up, @U064D01NAEL
+
+---
+
+**Seungmin(김승민)/AI Platform사업전략/SKT** _2025-09-08T17:27:49.213089_
+
+Hi <!here>, great to meet everyone! Let's work together to create an amazing AI Summit collaboration. Since we don't have much time left, I think it would be good to quickly start the three-way kickoff meeting we discussed before. How about this Tuesday at 5:00pm or 5:30pm PT (which would be Wednesday 9:00am or 9:30am KST)?
+
+---
+
+**최성진** _2025-09-10T20:51:03.799569_
+
+Hi <!here>
+Ahead of tomorrow’s morning meeting, I’ve prepared a working draft of the hackathon operations plan.
+
+[](https://docs.google.com/spreadsheets/d/1fCxyeEgVZISuT74ka4VaSOmeiWJdr_ZChF4NHdc_arU/edit?gid=1165452583#gid=1165452583)
+
+This is an *editable document* where each party can freely add comments and suggestions. It’s still a WIP version, and I hope we can build on this together in the kickoff.
+
+The sheet is structured as follows:
+1. *Hackathon Brief*
+2. *Event Timeline* (application flow / main event)
+3. *Checklist (condensed)* + *R&amp;R Overview*
+4. *Q&amp;A from Parties*
+For section 4, you can list *discussion points* or *items to confirm*—anything that should be raised ahead of the call.
+Please review the content and share your thoughts.
+If you could also add to the Q&amp;A section in advance, that will help guide our discussion tomorrow.
+
+Look forward to meeting you all tomorrow!
+
+Best
+
+---
+
+**최성진** _2025-09-16T19:52:01.791979_
+
+Hi team, <!here>
+
+Hi team,
+Ahead of tomorrow’s call, here’s a few topics we can go through
+1. *Overall operations update* – event name, promotion and application timeline, and other general updates
+2. *Venue update* – we’ve done the site visit for Studio 159, Devil's door for after party, and will share the findings
+3. *Budget update* – Jo mentioned last time that sponsorship could cover catering, networking venue, and swag. I’ve created a separate “Budget” tab and drafted a preliminary version to give you more visibility 
+4. *Other discussion points* – it would be good to align on the pre-mission plan after registration closes, and also confirm each party’s staffing and involvement
+I’m also sharing the link to the working sheet here so you can review in advance and add comments:
+
+• shared spread sheets: [](https://docs.google.com/spreadsheets/d/1fCxyeEgVZISuT74ka4VaSOmeiWJdr_ZChF4NHdc_arU/edit?gid=995404679#gid=995404679)
+• Venue Visit Update (Goolge Slide w/photos)
+[](https://docs.google.com/presentation/d/1kbDCcn6YGFibebDfrdlxbbEI4KKzhBJk1s3si4r00A0/edit?slide=id.g37fa0c232e7_0_64#slide=id.g37fa0c232e7_0_64)
+
+Please feel free to leave any thoughts or suggestions!
+See you tomorrow!
+
+---
+
+*2025-09-16T19:52:48.904059* - _@U06C7GS26SF 님이 채널에 참여함_
+
+---
+
+*2025-09-16T19:53:17.719689* - _@U064D02NW56 님이 채널에 참여함_
+
+---
+
+*2025-09-16T19:53:30.113669* - _@U087JB4K5C3 님이 채널에 참여함_
+
+---
+
+**U071L2KP001** _2025-09-17T09:48:14.289749_
+
+:trophy: Prizes
+:first_place_medal: $15k in Anthropic credits
+:second_place_medal: $3k in Anthropic credits
+:third_place_medal: $1k in Anthropic credits
+
+---
+
+**U071L2KP001** _2025-09-17T09:49:16.037949_
+
+$50 in hacking 1P claude credits per participant
+
+---
+
+**U071L2KP001** _2025-09-17T09:52:00.841209_
+
+$25K in prizes and credits
+
+---
+
+**U071L2KP001** _2025-09-17T11:57:09.192209_
+
+Sounds good we’re happy to go with that structure of 10k/6k/3k :+1::skin-tone-3: 
+
+---
+
+*2025-09-17T16:47:42.350699* - _@U09FANJM2P6 has joined the channel_
+
+---
+
+**최성진** _2025-09-17T17:01:31.505819_
+
+@U071L2KP001 @U07BQ3C308Z @U07B0MYQEHG @U09FANJM2P6
+
+Can you please share the comapny's official logo file for event use?
+we need information as below
+
+• Company Name 
+• Homepage URL 
+• Official logo img file (png) 
+
+---
+
+**U071L2KP001** _2025-09-18T06:17:23.320819_
+
+@U06CCE7LK7G @U09FANJM2P6 i know Ben has a separate room for meetings on Nov 3 and 4, any chance in our [planning spreadsheet](https://docs.google.com/spreadsheets/d/1fCxyeEgVZISuT74ka4VaSOmeiWJdr_ZChF4NHdc_arU/edit?gid=1165452583#gid=1165452583) we can have a tab called 1v1 meeting with Ben where you can help set up some top korea company meetings on his behalf? :slightly_smiling_face:
+
+• in red are times Ben is free across Nov 3 and 4 
+• and on Nov 4th maybe we can also do a top korea CEO dinner too? 
+
+---
+
+**최성진** _2025-09-18T17:30:55.440099_
+
+<!here>
+
+Regarding the application page,
+We discussed internally after the call yesterday. Since this event is positioned as a side event of the AI Summit (not a standalone event), the prep committee recommended that registration be managed through *SKT’s official website Devocean.*
+
+While it may be less convenient than using Luma, we will share the registration list in Excel on a daily basis from the first sign-ups, and we kindly ask for your understanding
+
+---
+
+**Seungmin(김승민)/AI Platform사업전략/SKT** _2025-09-19T13:04:31.039529_
+
+Hi @U071L2KP001 and @U0615S50TS9, our PR team has a question - would it be possible to do a written interview before the AI Summit? We’d like to release it through SKT Newsroom or media outlets before the summit to increase interest in the AI Summit and increase Anthropic’s presence in the Korean market.
+Also, when Ben is in Korea during the AI Summit period, would he be able to participate in in-person interviews with media outlets? We can arrange those opportunities.
+
+---
+
+**최성진** _2025-09-19T16:17:31.475879_
+
+This is the 2025 AI Summit brand guideline we talked about in the last meeting.
+
+I’ve confirmed with the organizing team that it’s fine to use it for hackathon designs like staff T-shirts.
+
+It’d be great if the Cox team could make good use of this guideline. :slightly_smiling_face:
+
+---
+
+**최성진** _2025-09-24T02:24:48.148069_
+
+Hi team, <!here>
+
+Ahead of tomorrow’s call, here are a few topics we’d like to cover;
+
+*Event Operation Update*
+• PR schedule updates
+• Swag production status (hoodie design & brand guideline shared)
+• Networking dinner venue 
+• Judge & promotion collaboration with [10x AI Club](https://www.youtube.com/@10xaiclub)
+*Hackathon Planning (Contents)* 
+• Pre-mission feedback : *[https://github.com/fritzprix/hackathon-template](https://github.com/fritzprix/hackathon-template)*
+• D-day content planning & logistics
+•  :paperclip: Working doc: [https://docs.google.com/document/d/1I6D6URXv-DMLZ3lmcegsv_gjDPDfTcMBxVKPFfyU6rI/edit?tab=t.0](https://docs.google.com/document/d/1I6D6URXv-DMLZ3lmcegsv_gjDPDfTcMBxVKPFfyU6rI/edit?tab=t.0)
+*Ben Mann’s Schedule*
+• SK to leverage K-AI Alliance & Enterprise Sales Team
+• Coxwave to confirm accessibility and company contacts
+• Clarification of Anthropic requests
+• VIP Chairman Lunch planned (Day 1)
+Please feel free to add comments or raise any additional points ahead of the call.
+See you soon!
+
+---
+
+*2025-09-24T09:09:03.621379* - _@U01UVR2Q0FQ has joined the channel_
+
+---
+
+**U071L2KP001** _2025-09-24T09:54:20.089249_
+
+@U07BQ3C308Z @U06CCE7LK7G [Credit Form for hackathon participants to fill to get $50 in credits](https://docs.google.com/forms/d/e/1FAIpQLSesuFGS_4zHktjlpDAlLm4nYRj2RYug6DUgRl4k4y2q0aCOBg/viewform)
+
+---
+
+**U071L2KP001** _2025-09-24T09:59:56.377559_
+
+@U07BQ3C308Z example top OAI startup users in korea we would love to convert to claude
+
+---
+
+**U07BQ3C308Z** _2025-09-24T10:06:21.748599_
+
+*[Coxwave's office address &amp; Sending goods] &gt;&gt; @U071L2KP001* 
+• *Address:* 10th Floor, 23 Yeouidaebang-ro 69-gil, Yeongdeungpo-gu, Seoul, Republic of Korea 07333
+• *Promotional Materials Request:* We would greatly appreciate if you could send goods such as stickers, pens, notepads, etc to our office. We'll keep them in our office and bring it to the event.
+
+---
+
+**김태명** _2025-09-24T11:17:49.052689_
+
+#*9/24 Hackathon Working Meeting Summary*
+
+■ *Event Operations*
+• SK Group’s AI Summit PR postponed to *Oct 11* due to overlap with APEC Summit PR and Chuseok holidays.
+• Registration period extension under review to align with PR schedule.
+• Pre-event promotion via personal LinkedIn and other unofficial channels encouraged.
+• *Coxwave* to sponsor swag (hoodies, staff T-shirts) and will be listed as a sub-sponsor.
+• Networking dinner confirmed at _Anjuga_ (capacity: 40). Final attendee list required.
+■ *Collaboration &amp; Promotion*
+• Partnership with *10X AI Club* (30K+ YouTube subscribers) for promotion.
+• Devotion registration page launched; daily applicant updates to follow.
+• Minimal personal data collection during registration.
+• All PR/interviews require *Anthropic Comms (Steve Fulton)* approval.
+■ *Hackathon Planning*
+• Pre-mission task (1–2 days) for participants, with GitHub feedback requested.
+• Main event: *3-hour hackathon* with Claude Code for rapid prototyping.
+• Deliverables: demo video, 1-page summary, GitHub repo.
+• Judging criteria: creativity, feasibility, Claude Code utilization.
+• ~30 teams expected; 8 mentors to guide and select Top 3.
+• Each participant receives *$50 Anthropic credits*; org UUID submission due by Oct 31.
+■ *Operations &amp; Payments*
+• Expenses (venue, catering) must use virtual credit card; Stripe preferred.
+• If not feasible, Coxwave will prepay and invoice Anthropic.
+• Anthropic swag (pens, notebooks, stickers) to be shipped to Korea before the event.
+■ *Ben’s Schedule &amp; Meetings*
+• Ben’s 1:1 meetings to focus on broader GenAI use cases beyond chatbot.
+• Anthropic seeks meetings with both existing OpenAI users and potential new customers.
+• Official Anthropic blog not available for event promotion; personal LinkedIn/Twitter recommended.
+
+
+---
+
+**Seungmin(김승민)/AI Platform사업전략/SKT** _2025-09-24T13:45:18.608789_
+
+Hi @U071L2KP001, we're opening the SK AI Summit 2025 website and Ben will be featured as a keynote speaker. Could you provide Ben's photo and his exact title? We've tentatively listed him as "Co-founder" for now, but if there's a better title (e.g., Co-founder &amp; Tech Lead), please let me know.
+*Keynote Topic:* Claude Development Environment and AI Innovation: Building Safe and Reliable AI Agents (10-minute keynote followed by 20-minute Q&amp;A or fireside chat)
+For reference, here's last year's site: [](https://www.skaisummit.com/keynote)
+
+---
+
+*2025-09-25T02:35:59.770079* - _@U09E545P7GB has joined the channel_
+
+---
+
+**U071L2KP001** _2025-09-25T02:36:35.369729_
+
+looping in @U09E545P7GB for all PR/interview for @U01N922TXC6 related questions @U064D01NAEL if you can share your initial proposal :)
+
+---
+
+**U09FANJM2P6** _2025-09-26T16:48:56.366179_
+
+Hi @U071L2KP001,quick question regarding the weekly Hackathon meeting. I thought the meeting was Wed 9am KST (which is 5pm PT the previous day), but I'm seeing the next week's meeting scheduled for Thur 9am KST. Is this correct? Just wanted to confirm the date is right before it's on my calendar.
+Thanks!
+
+---
+
+**U09FANJM2P6** _2025-09-29T10:24:10.112509_
+
+Hi @U071L2KP001, I have some good news! The restaurant we've been looking into said they can provide a PayPal link, so we can split the payment into two parts - a deposit upfront and then the remaining balance after we finish dining. The payment will be in USD, and the deposit should be around $290. I'll share the link with you once I receive it!
+
+---
+
+**Seungmin(김승민)/AI Platform사업전략/SKT** _2025-09-30T20:34:12.428619_
+
+Hi @U071L2KP001 and @U09E545P7GB, our PR teamis working on the questions right now, and I'll share them once they're done!
+Also, I wasn't sure who to ask about this, so I'm reaching out to you both. I need to check something – SK is planning to create videos and materials using the AI Summit speakers' information and photos for promotional purposes. So I wanted to ask in advance if this would be okay.
+
+Since these materials haven't been created yet, I'm sharing last year's video as a reference for you to check out. This year's format will probably be similar to this, and the imagery will likely have a similar feel to the video as well. Just wanted to get your input on whether this approach works before we move forward with production.
+
+---
+
+*2025-10-01T06:01:27.898519* - _@U09HPT2V0RX has joined the channel_
+
+---
+
+**최성진** _2025-10-01T08:27:43.968609_
+
+@U071L2KP001 hi jo, could you please check if this works? We have a conflict at 9 AM tomorrow, so we won’t be able to hold this week’s meeting. Instead, we’ll share the updates here on Slack. Thanks for your understanding!
+
+---
+
+**최성진** _2025-10-02T00:03:04.884219_
+
+[Weekly Update]
+
+<!channel>
+
+Since we don’t have a call today, here’s the weekly update.
+
+• SK AI Summit's official page([](https://www.skaisummit.com/)) + Devocean Hackathon Application Page([](https://devocean.sk.com/)) is on live 
+• Ben Mann's Meeting arrangement from SKT side 
+    ◦ Confirmed 
+        ▪︎ Nexon (Game, TSE Listed, ~$18B Market Cap) 
+        ▪︎ Sendbird (Chat API, Series C, $1.05B, [](https://sendbird.com/ko))
+        ▪︎ Enhans (AI Agent, Series B, 2025 Palnatir Startup Fellowship Program, [](https://www.enhans.ai/)) 
+    ◦ Under discussion 
+        ▪︎ Crafton (Game, KOSPI Listed, ~$10B Market Cap) 
+        ▪︎ Coupang 
+        ▪︎ NC Soft
+        ▪︎ + K-AI Alliance Members
+• Dinner Box is added, ~$40/peroson 
+• Hoodie & staff T-shirt design will be finalized by tomorrow; Coxwave team will place the order before the long holiday (minor tweaks per SKT brand guide) Thanks @U09FANJM2P6 and @U07BQ3C308Z! 
+• Big shout-out to @U06C7GS26SF for putting in so much effort and promoting through his broad hackathon network
+    ◦ Connected with Seoul Global Center, Seoul IoT Center, Seoul Creative Economy Innovation Center, Seoul Business Agency, and Korea Invention Promotion Association
+    ◦ Already promoted at Sejong University and KAIST 
+    ◦ Planning to reach out to Sungkyunkwan University today to explore on-campus promotion
+
+Please feel free to share any thoughts, and *as the official promotions just went live*, we’d really appreciate everyone helping spread the word through personal channels!
+
+Thanks!
+
+---
+
+**U071L2KP001** _2025-10-02T00:16:10.379349_
+
+This is awesome thank you @U06CCE7LK7G ! Any updates on the ability for COEX to generate a stripe portal for Anthropic to pay for the box dinners/catering by virtual credit card? 
+
+And same for the after party? If we can prepay? 
+
+---
+
+**최성진** _2025-10-02T00:33:15.605089_
+
+This is the latest T shirts &amp; Hoodie design. Thanks for the update @U07R9BP27E3 
+
+---
+
+**이정훈** _2025-10-02T16:27:29.961459_
+
+Hi all, quick follow-up from our last meeting:
+
+• Please share what souvenirs *Anthropic* and *Coxwave* can provide (item names + quantities).
+• We need this to decide *packaging format* + *distribution timing*.
+• Since Korea’s long holiday starts tomorrow, it’d be great to confirm ASAP for packaging orders.
+• Stickers/stationery are fine, but more appealing items are even better.
+• If quantities are limited, we can do a *lucky box/draw* to boost engagement.
+Thanks! :pray:
+
+---
+
+**Seungmin(김승민)/AI Platform사업전략/SKT** _2025-10-03T23:02:54.399539_
+
+Hi @U09E545P7GB, I received the written interview questions we discussed and wanted to share them with you.
+[https://docs.google.com/document/d/1_zbrWVdAn-Fd8-zOrl1p-4dL0G8WPY7zBDxJIJghh3M/edit?pli=1&amp;tab=t.0](https://docs.google.com/document/d/1_zbrWVdAn-Fd8-zOrl1p-4dL0G8WPY7zBDxJIJghh3M/edit?pli=1&amp;tab=t.0)
+It looks like they’ll be posted on SKT’s newsroom ([https://news.sktelecom.com/en/](https://news.sktelecom.com/en/)).  Could you provide responses to the written interview questions? Please review and let me know. Thanks!
+
+---
+
+**U09HPT2V0RX** _2025-10-05T12:15:07.916659_
+
+Hey team! Just wanted to ping the group that there seems to be an authentication error when people try to sign up through the Devocean page :sweat_smile: Can we check this out please? Thank you! 
+
+---
+
+**Seungmin(김승민)/AI Platform사업전략/SKT** _2025-10-07T15:28:27.810619_
+
+Hi @U071L2KP001 and @U09E545P7GB, the AI Summit website is now open: [](https://skaisummit.com/?lang=en)
+Other speakers are also being continuously updated on the site.
+
+As we discussed earlier, we’re moving forward with video production and will also be creating promotional images where Ben’s photo and profile will be used in a format similar to the attached promotional mockup from 2024. These materials will be promoted across channels like KakaoTalk, Instagram, and other platforms to promote registration for AI Summit. Just wanted to keep you in the loop – please let me know if there are any concerns!
+
+---
+
+**김태명** _2025-10-13T16:04:20.231059_
+
+:rocket: *Hackathon Participation Update (as of Oct 13)*
+
+As of today, we’ve got *39 individual participants* and *18 teams (55 members total)* registered! :raised_hands:
+Official PR *started yesterday*, and registration *closes this Friday*, so let’s keep the momentum going and encourage more people to join! :muscle:
+
+[](https://docs.google.com/spreadsheets/d/1Zo5j3K38p958Ppw-zXADYIRuiG7zzslIQiNBzZVtBNw/edit?gid=267074897#gid=267074897)
+
+---
+
+**김태명** _2025-10-15T10:54:55.509139_
+
+*[Hackathon Registration Update – as of Oct 14 (Tue)]*
+
+ • Individual participants: *82* (+24)
+ • Team participants: *45 teams, 149 members* (+73)
+ ※ A total of *30 teams (100 participants)* will be selected.
+
+:point_right: Please check the Google Sheet below for full details: [[Google link]](https://docs.google.com/spreadsheets/d/1Zo5j3K38p958Ppw-zXADYIRuiG7zzslIQiNBzZVtBNw/edit?gid=267074897#gid=267074897)
+ If you can’t access the link due to permission settings, please leave a comment and I’ll approve right away.
+
+---
+
+**최성진** _2025-10-15T16:45:30.349189_
+
+[SKT-Ant-Cox Cadence Meeting Agenda]
+<!channel>
+Hi team, I am sharing the key updates and discussion points in advance for tomorrow’s cadence, as we’re getting back into rhythm after the long holiday!
+
+*1.Registration Status Update*
+• [Google link](https://docs.google.com/spreadsheets/d/1Zo5j3K38p958Ppw-zXADYIRuiG7zzslIQiNBzZVtBNw/edit?gid=267074897#gid=267074897) : As of 10/15 Morning KST, ~230 total (45 teams 149members, 82 individuals)
+• Coxwave's referrals to be notified by Mon, Oct 20
+• _Discussion : more individual applicants than expected, should we support team-ups?_
+*2. Promotion Update*
+• SKT official channels: Facebook / Instagram / LinkedIn / Devocean mailing list (10K) / AI Startup Lab web page
+• Media PR (but more focused on AI Summit rather than AI Hackathon itself)
+• Outreach via 10x AI Club (Yong Hyelim) : private founder gorup (640 members) + Instagram promotion
+
+*3. Ben Mann's Schedule*
+• Day 1 VIP Lunch confirmed, next to Chairman Chey's seat 
+• Day 1 Hackathon timetable update 
+    ◦ 10-min Vibe coding session (Yeop Lee) 
+• Corporate meeting updates to be shared (Yeop Lee) 
+
+*4. Swag/ Catering/ Networking Dinner*
+• Hoodie production in progress (Coxwave) 
+• each parties' swag 
+• Catering Payment update to follow 
+• Networking Dinner (Coxwave) 
+*5. Others* 
+• Extra budget for 3-screen mirrored display for vibe coding demo by Ben Mann, Eric, and Coxwave team 
+• Items in relation to the intepretation 
+    ◦ on-screen machine translation captioning : extra budget needed
+If you have any additional thoughts or updates, feel free to drop them here see you all tomorrow!
+
+---
+
+**이정훈** _2025-10-15T18:47:03.121709_
+
+@U071L2KP001 Hi, just sharing this in advance in case we need to review it before tomorrow’s meeting.
+For the upcoming hackathon, COEX informed us that virtual payment isn’t available for catering due to restrictions. We’re currently exploring other options — possibly handling the payment through the Hackathon event agency (still confirming if that’s feasible).
+However, the event agency mentioned that while they can include catering details in the supporting documents, the payment can’t be categorized as “Catering or F&amp;B.”
+Could you please check if this might cause any issues with expense verification or documentation?
+Thanks!
+
+---
+
+**김태명** _2025-10-16T14:17:49.889899_
+
+*Hi @U071L2KP001,*
+ Just wanted to follow up on our previous discussion about providing credits to hackathon participants — there are a couple of points I’d like to clarify:
+
+:one: *Credit setup:*
+ Can you confirm if Anthropic will issue separate API key links (temporary hackathon accounts), preload credits on them, and share those keys with participants before the event?
+
+:two: *$50 credit:*
+ Is the $50 credit meant as an additional participant benefit, or will it be the credit available for use during the hackathon?
+Would appreciate your clarification so we can finalize the participant guide.
+
+ Hope you’re having a good day!
+
+---
+
+**김태명** _2025-10-17T10:32:59.129089_
+
+We’ve now reached a total of *395 registered participants*, and with registration closing today, we expect the *competition rate to exceed 4:1*.
+
+Notably, the pool includes *startup CTOs, previous hackathon winners, International Olympiad medalists, and researchers from Berkeley AI Research*, indicating a highly competitive selection process ahead. :rocket:
+
+:bar_chart: *[Current Registration Status]*
+• *Individual participants:* 129 (+47)
+• *Team participants:* 83 teams / 266 people (+117)
+     ※ Total *30 teams (100 finalists)* will be selected.
+
+Also, as discussed in yesterday’s meeting — we’ve added a new *‘Referrer’* column to the [[google link](https://docs.google.com/spreadsheets/d/1Zo5j3K38p958Ppw-zXADYIRuiG7zzslIQiNBzZVtBNw/edit?gid=0#gid=0)].
+ If you’re recommending a participant (or a team), please enter your name in that column. :raised_hands:
+
+---
+
+**U09FANJM2P6** _2025-10-17T19:47:11.021199_
+
+Hi @U06CCE7LK7G @U07B0MYQEHG
+Quick question about the panel talk - Dongeon from our team is preparing to moderate. We'd like to know what the due date is for finalizing the details. Please let me know considering the day-of preparations as well, and I'll pass it along to Dongeon!
+
+---
+
+**U09FANJM2P6** _2025-10-17T20:04:35.410469_
+
+Also, here's some details about the after party - please check this [Google Slides](https://docs.google.com/presentation/d/1dQXIvmPmeQuC3APRgdzdbRhixXEiUDEHq4z2e-11pKs/edit?slide=id.g394c488f2c2_0_0#slide=id.g394c488f2c2_0_0)
+• Since we need to pre-order the menu, we're planning to prepare one signature set per table
+• The restaurant can accommodate up to 40 people, and with SKT, Anthropic, Coxwave, and the winning team, we currently have 24 people total - leaving room for 6 additional guests
+• How about dividing these remaining slots so that each team can invite 2 additional people? Let us know if this works for everyone!
+
+---
+
+**김태명** _2025-10-20T11:31:12.652469_
+
+:tada: *Final Registration Update (Oct 17, Fri)*
+ • *Individual participants:* 155
+ • *Teams:* 121 (385 participants total)
+ 
+We’ve wrapped up registration with an incredible pool of participants — including startup CTOs, hackathon award winners, Olympiad medalists, Berkeley AI researchers, and AI engineers from leading companies.
+
+As the number of applicants far exceeds expectations, final selection will be quite competitive.
+If you have any strong recommendations, please *add your name and recommendation status* in the participant registration sheet to help with the selection process [[google link](https://docs.google.com/spreadsheets/d/1Zo5j3K38p958Ppw-zXADYIRuiG7zzslIQiNBzZVtBNw/edit?gid=0#gid=0)].
+
+---
+
+**최성진** _2025-10-22T06:53:06.977949_
+
+@U071L2KP001 @U09HPT2V0RX 
+
+I just checked Jo moved today’s 9AM KST meeting to 2:30PM.
+I was initially planning our cadence for 9AM — is there any particular reason for the schedule change?
+
+I was going to cover today's agenda as below
+
+• Timeline 
+• Selection process for participants
+• Swag preparation
+• Networking dinner 
+• Other operational updates 
+
+---
+
+**U09HPT2V0RX** _2025-10-22T08:08:17.906089_
+
+Could we change the schedule to then please? We have a scheduling conflict @U06CCE7LK7G  :pray:
+
+---
+
+**최성진** _2025-10-22T08:20:51.119149_
+
+@U09HPT2V0RX
+We completely understand that schedules can shift, but since this is a three-party cadence involving SKT, Coxwave, and Anthropic, it would be really helpful if such changes could be shared in advance through proper communication.
+
+Both SKT and Coxwave had planned around the original slot, so a short notice reschedule makes coordination quite difficult on our side.
+
+Would appreciate it if we could align the process a bit better going forward :slightly_smiling_face:
+
+Also, could you please confirm who from the Anthropic side will be joining the 2:30PM KST call?
+
+CC @U063PT3DHS7 @U07BQ3C308Z @U09FANJM2P6
+
+---
+
+**U09HPT2V0RX** _2025-10-22T08:44:45.099779_
+
+How about we do the original time then? 
+
+---
+
+**U09HPT2V0RX** _2025-10-22T08:44:58.019989_
+
+Jo won’t be able to join but I will be there
+
+---
+
+**최성진** _2025-10-22T08:53:25.750209_
+
+From SKT side, we are okay with it. how about @U07BQ3C308Z and @U09FANJM2P6?
+
+---
+
+**Seungmin(김승민)/AI Platform사업전략/SKT** _2025-10-22T14:24:46.997259_
+
+Hi @U09E545P7GB,
+Just following up to confirm a couple of things:
+• The SKT newsroom posting is scheduled to go live on 10/23 (Korea time). There are no changes to the content you sent us - we're just translating it into Korean and it will be posted in both Korean and English.
+• Regarding the media outlet interviews I mentioned earlier - would it be okay for you to provide a contact point on your side? Several major outlets are requesting interviews with Ben during the AI Summit.
+Please confirm when you get a chance. Thanks!
+
+---
+
+*2025-10-22T16:17:00.738419* - _@U07AL1KDYKZ has joined the channel_
+
+---
+
+**이정훈** _2025-10-27T11:37:46.409299_
+
+Hi @U071L2KP001 @U09HPT2V0RX As mentioned previously, this is the amount to be paid by *Anthropic* for the upcoming hackathon.
+ We plan to proceed with the payment through an *agency* using a *virtual account*.
+ Please review the amount once again to confirm that there are *no discrepancies*.
+ If everything is in order, we will instruct the agency to proceed with the virtual payment.
+(The exchange rate may vary depending on the date.)
+
+---
+
+**U071L2KP001** _2025-10-27T11:39:14.000169_
+
+Looks good! Please send invoice to <mailto:jo@anthropic.com|jo@anthropic.com> and I’ll pay with a virtual credit card 
+
+---
+
+**최성진** _2025-10-27T20:13:02.876629_
+
+@U071L2KP001 @U09HPT2V0RX
+
+Just wanted to check in regarding this week’s 3-party sync meeting since I haven’t received an invite link,  If possible, I’d like to use this week’s slot to finalize the participant list and cover any remaining coordination items.
+If the timing doesn’t work, please give us a quick heads-up — Wednesday 9AM KST still works best for the SKT side.
+
+---
+
+**최성진** _2025-10-28T20:35:29.390439_
+
+@U09HPT2V0RX @U071L2KP001 
+I was informed through Coxwave that there will be a panel prep call tomorrow.
+
+I’d like to join as an observer to better understand the flow as the event host.
+Could you please share the call link?
+
+
+---
+
+**최성진** _2025-10-29T09:45:46.343819_
+
+[Hackathon Operation]
+@U09FANJM2P6 @U09HPT2V0RX
+As promised i am sharing the docs that we showed during the call.
+
+---
+
+**김태명** _2025-10-29T15:19:00.785709_
+
+*[Final Confirmation Request: Hackathon Finalists (100 Participants)]*
+@U09HPT2V0RX @U09FANJM2P6 @U07BQ3C308Z @U06CCE7LK7G
+Hi everyone,
+Please review the *final list of finalists* below and confirm if there are any disagreements among organizers:
+• *Individual participants:* 5
+• *Team participants:* 27 teams (95 people)
+• *Waitlist:* 5 teams (15 people)
+:link: [Finalist Sheet](https://docs.google.com/spreadsheets/d/1Zo5j3K38p958Ppw-zXADYIRuiG7zzslIQiNBzZVtBNw/edit?pli=1&amp;gid=1839315938#gid=1839315938)
+
+As discussed this morning, please *select around 5 preferred teams per company* by checking the box in the sheet.
+ We plan to *publish the final list on DevOcean around 5 PM KST*, so this is our *last verification round* before public announcement.
+
+Thanks for your quick confirmation
+
+---
+
+**최성진** _2025-10-29T16:00:31.551399_
+
+@U071L2KP001
+The agency said that they just sent over the virtual invoice to your e-mail. could you please check if the payment goes through on your side?
+
+---
+
+**김태명** _2025-10-29T18:37:00.630139_
+
+@U09HPT2V0RX quick update regarding the credit collection form.
+ Currently, the Google Form shows the submission deadline as *Thursday, Oct 30 (EOD)*, but since we plan to send the email to finalists tomorrow morning (Oct 30, 9 AM KST) and collect responses by *Friday, Oct 31, 12 PM KST*, could you please update the deadline on the form accordingly?
+[](https://docs.google.com/forms/d/e/1FAIpQLSeqZTg4WUOvwmAgp-Z4Ktwbk8EpaDpjpsrSinANyy6Lo0wQ1w/viewform)
+
+---
+
+**U09HPT2V0RX** _2025-10-29T20:58:55.764909_
+
+It has been updated :+1: @U087JB4K5C3
+
+---
+
+**U071L2KP001** _2025-10-30T10:09:54.853629_
+
+@U06CCE7LK7G i got an invoice but only for $1?
+
+---
+
+**U071L2KP001** _2025-10-30T11:09:22.461169_
+
+@U06CCE7LK7G it works, can the vendor send the full invoice?
+
+---
+
+**최성진** _2025-10-30T17:13:07.315469_
+
+@U09HPT2V0RX Can you send Ben Mann’s Day 1 business meeting schedule? Since his panel is the first slot (15:00–15:30 KST), we’d like to lock the hard start/stop and confirm the buffer immediately before and after.
+
+---
+
+**U09HPT2V0RX** _2025-10-30T17:16:40.445229_
+
+This is Ben's schedule before and after the panel!
+
+---
+
+**김태명** _2025-10-31T09:44:28.451749_
+
+@U09HPT2V0RX Hi — just checking in regarding the Claude account collection form.
+ Since the Google Form submission *closes today at 12 PM KST*, could you please share the *current list or count of participants who have already submitted their Claude account information*?
+
+We’d like to double-check for any missing entries before the deadline.
+
+---
+
+**U09HPT2V0RX** _2025-10-31T09:48:04.606009_
+
+I will DM you!!
+
+---
+
+*2025-10-31T19:58:00.195279* - _@U09QS55V3R6 님이 채널에 참여함_
+
+---
+

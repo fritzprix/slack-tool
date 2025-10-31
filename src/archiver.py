@@ -70,12 +70,13 @@ class SlackArchiver:
         """사용자 ID를 사용자 이름으로 변환"""
         return self.users_cache.get(user_id, user_id)
     
-    def get_all_channels(self, exclude_archived: bool = True) -> List[Dict[str, Any]]:
+    def get_all_channels(self, exclude_archived: bool = True, only_joined: bool = False) -> List[Dict[str, Any]]:
         """
-        워크스페이스의 모든 채널 목록 가져오기
+        워크스페이스의 채널 목록 가져오기
         
         Args:
             exclude_archived: 아카이브된 채널 제외 여부
+            only_joined: True일 경우 봇이 속한 채널만 가져오기
             
         Returns:
             채널 정보 딕셔너리 리스트
@@ -85,17 +86,27 @@ class SlackArchiver:
         
         try:
             while True:
-                response = self.client.conversations_list(
-                    types="public_channel,private_channel",
-                    exclude_archived=exclude_archived,
-                    cursor=cursor,
-                    limit=200
-                )
+                # only_joined가 True면 봇이 속한 채널만, False면 모든 채널
+                if only_joined:
+                    response = self.client.users_conversations(
+                        exclude_archived=exclude_archived,
+                        cursor=cursor,
+                        limit=200,
+                        types="public_channel,private_channel"
+                    )
+                else:
+                    response = self.client.conversations_list(
+                        types="public_channel,private_channel",
+                        exclude_archived=exclude_archived,
+                        cursor=cursor,
+                        limit=200
+                    )
                 
                 channels = response.get('channels', [])
                 all_channels.extend(channels)
                 
-                logger.info(f"Retrieved {len(channels)} channels")
+                channel_type = "joined channels" if only_joined else "channels"
+                logger.info(f"Retrieved {len(channels)} {channel_type}")
                 
                 # 다음 페이지 확인
                 if not response.get('response_metadata', {}).get('next_cursor'):
@@ -326,19 +337,21 @@ class SlackArchiver:
     def archive_all_channels(
         self,
         exclude_archived: bool = True,
-        include_threads: bool = True
+        include_threads: bool = True,
+        only_joined: bool = False
     ) -> List[str]:
         """
-        모든 채널을 아카이브
+        채널들을 아카이브
         
         Args:
             exclude_archived: 아카이브된 채널 제외 여부
             include_threads: 스레드 메시지 포함 여부
+            only_joined: 봇이 속한 채널만 아카이브 여부
             
         Returns:
             저장된 파일 경로 리스트
         """
-        channels = self.get_all_channels(exclude_archived=exclude_archived)
+        channels = self.get_all_channels(exclude_archived=exclude_archived, only_joined=only_joined)
         saved_files = []
         failed_channels = []
         
