@@ -188,13 +188,37 @@ archives/
 └── INDEX.json
 ```
 
-### 예제 2: 특정 채널만 아카이브
+### 예제 2: 봇이 속한 채널만 아카이브하고 HTML로 변환
 
 ```bash
-python main.py --channel general --no-threads
+# 1. 봇이 속한 채널만 아카이브
+python main.py --all --only-joined
+
+# 2. 생성된 모든 JSON 파일을 HTML로 변환
+python main.py --convert archives/weekly_core_meeting_20251031_110015.json
+python main.py --convert archives/ext-skt-anthropic-coxwave_20251031_110025.json
 ```
 
-### 예제 3: 아카이브된 채널 포함
+### 예제 3: 특정 채널 아카이브하고 모든 형식으로 변환
+
+```bash
+# 1. 특정 채널 아카이브 (스레드 제외)
+python main.py --channel general --no-threads
+
+# 2. 아카이브를 모든 형식으로 변환
+python main.py --convert archives/general_20251031_143022.json --convert-format all
+```
+
+변환 결과 파일:
+```
+archives/
+├── general_20251031_143022.json     # 원본 JSON
+├── general_20251031_143022.html     # HTML 형식
+├── general_20251031_143022.md       # Markdown 형식
+└── general_20251031_143022.txt      # Text 형식
+```
+
+### 예제 4: 아카이브된 채널 포함해서 목록 확인
 
 ```bash
 python main.py --list --include-archived
@@ -303,6 +327,49 @@ Bot에 필요한 scopes이 있는지 확인:
 ```bash
 python main.py --list
 ```
+
+## 💡 변환 기능 활용 팁
+
+### 일괄 변환 스크립트
+
+**Windows (PowerShell):**
+```powershell
+# archives 폴더의 모든 JSON 파일을 HTML로 변환
+Get-ChildItem archives/*.json | ForEach-Object {
+    python main.py --convert $_.FullName --convert-format html
+}
+```
+
+**Linux/macOS (Bash):**
+```bash
+# archives 폴더의 모든 JSON 파일을 HTML로 변환
+for file in archives/*.json; do
+    python main.py --convert "$file" --convert-format html
+done
+```
+
+### 변환된 파일 활용 방법
+
+1. **HTML 파일**: 
+   - 웹서버에 업로드해서 팀 공유
+   - 이메일 첨부로 전송
+   - 프레젠테이션에 삽입
+
+2. **Markdown 파일**: 
+   - GitHub 저장소 위키로 업로드
+   - 노션 페이지에 붙여넣기
+   - Confluence 문서 작성
+
+3. **Text 파일**: 
+   - `grep`으로 특정 키워드 검색
+   - 스프레드시트 프로그램에서 분석
+   - 백업 아카이브로 보관
+
+### 변환 시 주의사항
+
+- **큰 파일**: 메시지가 많은 채널(1000개 이상)은 변환에 시간이 걸릴 수 있습니다
+- **특수 문자**: 파일명에 특수문자가 있으면 OS에 따라 문제가 될 수 있습니다  
+- **용량**: HTML 파일은 스타일 포함으로 원본 JSON보다 클 수 있습니다
 
 ## 저작권
 
